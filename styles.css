@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav {
+    background-color: #444;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px 0;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+p {
+    font-family: Courier, sans-serif;
+}
+main {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Courier, sans-serif;
+
+}
+section {
+    color: #e2e2e2;
+    background-color: hwb(0 56% 44%);
+    border: 1px solid #676767;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
+table{
+border-collapse: collapse;
+width: 100%;
+color: #e2e2e2;
+background-color: hwb(0 56% 44%);
+
+margin-bottom: 20px;
+padding: 10px;
+    th, td {
+                border: 1px solid black;
+                padding: 8px;
+                text-align: center;
+                font-family: Courier, sans-serif;
+                font-size:120%;
+            }
+    section {
+        background-color: #aaaaaa;
+    }
+    h1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 200%;
+    }
+    h2 {
+        font-family: Courier, sans-serif;
+        font-size: 180%;
+    }
+    a {
+        color:#370224
+    }
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+}
+h2 {
+    font-family: Courier, sans-serif;
+    font-size: 180%;
+}
+a {
+    color:#370224
+}
